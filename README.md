@@ -4,7 +4,7 @@
 
 代码中共有7个文件夹，其中包括：
 
-1. data：存储原始图片，提取到的图片特征，使用Lasso降维后的数据，Resnet每一层的可视化（由于上传大小有限制，还请老师从邮箱中下载后再将该文件放入根目录）
+1. data：存储原始图片，提取到的图片特征，使用Lasso降维后的数据，Resnet每一层的可视化（由于上传大小有限制，请至[此处](https://drive.google.com/drive/folders/12GMFBLyRK9kOmI7iEYS7yMRAXwh219Sm?usp=sharing)下载数据，并将其放入根目录下）
 2. evaluate：对训练得到的模型结果评估与结果可视化
 3. models：含有BPNN，KNN，MLP，RF四个模型文件以及tools文件，内含pca实现以及混淆矩阵的计算与可视化
 4. preprocessing：提取图片特征，预处理数据，Lasso降维实现，可视化Resnet
